@@ -1,0 +1,71 @@
+@layout('layouts.app')
+
+
+
+@section('content')
+
+<!-- Agregamos el título -->
+<div class="fondo">
+    <div class="texto">
+        <div class="container mt-3">
+            <h1 class="text-center ">FINALES DE LA COPA LIBERTADORES</h1>
+        </div>
+
+        <!-- Agregamos el formulario para consultar el año de la final -->
+        <div class="container mt-3">
+    <form action="/" method="POST">
+        <div class="form-group">
+            <label for="year">Consulta Aquí, Digitando El Año De La Final:</label>
+            <input type="text" class="form-control" id="YearInput" name="year">
+            <label for="year">Consulta Aquí, Digitando El Nombre Del Campeon:</label>
+            <input type="text" class="form-control" id="YearInput" name="winner">
+            <label for="year">Consulta Aquí, Digitando El Nombre Del PaisA:</label>
+            <input type="text" class="form-control" id="YearInput" name="countryA">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </form>
+</div>
+
+        <!-- Agregamos el text area -->
+        <div class="container mt-3">
+    <label for="result">Resultado:</label>
+    <table class="table">
+        <thead class="thead-light">
+            <tr>
+                <th>Year</th>
+                <th>Country A</th>
+                <th>Winner</th>
+                <th>Runner Up</th>
+                <th>Country B</th>
+                <th>Venue</th>
+                <th>Attendance</th>
+                <th>Winner Score</th>
+                <th>Vice Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            @each (finales in year)
+            <!-- Aquí puedes agregar los datos de tus finales -->
+            <tr>
+                <td>{{finales.Year}}</td>
+                <td>{{finales.CountryA}}</td>
+                <td>{{finales.Winner}}</td>
+                <td>{{finales.RunnerUp}}</td>
+                <td>{{finales.CountryB}}</td>
+                <td>{{finales.Venue}}</td>
+                <td>{{finales.Attendance}}</td>
+                <td>{{finales.WinnerScore}}</td>
+                <td>{{finales.ViceScore}}</td>
+            </tr>
+            @endeach
+            <!-- Puedes agregar más filas según tus datos -->
+        </tbody>
+    </table>
+        </div>
+    </div>
+ </div>
+
+
+@endsection
+

@@ -1,0 +1,42 @@
+@layout('layouts.app')
+
+
+
+@section('content')
+
+ <div class="container" >
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>Year</th>
+                    <th>Country A</th>
+                    <th>Winner</th>
+                    <th>Runner Up</th>
+                    <th>Country B</th>
+                    <th>Venue</th>
+                    <th>Attendance</th>
+                    <th>Winner Score</th>
+                    <th>Vice Score</th>
+                </tr>
+            </thead>
+            <tbody>
+            @each (finales in final)
+                <!-- Aquí puedes agregar los datos de tus finales -->
+                <tr>
+                    <td>{{finales.Year}}</td>
+                    <td>{{finales.CountryA}}</td>
+                    <td>{{finales.Winner}}</td>
+                    <td>{{finales.RunnerUp}}</td>
+                    <td>{{finales.CountryB}}</td>
+                    <td>{{finales.Venue}}</td>
+                    <td>{{finales.Attendance}}</td>
+                    <td>{{finales.WinnerScore}}</td>
+                    <td> {{finales.ViceScore}}</td>
+                </tr>
+                @endeach
+                <!-- Puedes agregar más filas según tus datos -->
+            </tbody>
+        </table>
+    </div>
+
+@endsection

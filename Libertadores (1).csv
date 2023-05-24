@@ -1,0 +1,134 @@
+Year,Country,Winner,Runner-up,Country.1,Venue,Attendance,WinnerScore,ViceScore
+1960,Uruguay,Peñarol,Olimpia,Paraguay,"Estadio Centenario, Montevideo",44690.0,1,0
+1960,Uruguay,Peñarol,Olimpia,Paraguay,"Estadio de Puerto Sajonia, Asunción",35000.0,1,1
+1961,Uruguay,Peñarol,Palmeiras,Brazil,"Estadio Centenario, Montevideo",64376.0,1,0
+1961,Uruguay,Peñarol,Palmeiras,Brazil,"Estádio do Pacaembu, São Paulo",50000.0,1,1
+1962,Brazil,Santos,Peñarol,Uruguay,"Estadio Centenario, Montevideo",48105.0,2,1
+1962,Brazil,Santos,Peñarol,Uruguay,"Vila Belmiro, Santos",18000.0,2,3
+1962,Brazil,Santos,Peñarol,Uruguay,"Estadio Monumental, Buenos Aires",60000.0,3,0
+1963,Brazil,Santos,Boca Juniors,Argentina,"Maracanã, Rio de Janeiro",100000.0,3,2
+1963,Brazil,Santos,Boca Juniors,Argentina,"Estadio Boca Juniors, Buenos Aires",50000.0,2,1
+1964,Argentina,Independiente,Nacional,Uruguay,"Estadio Centenario, Montevideo",60000.0,0,0
+1964,Argentina,Independiente,Nacional,Uruguay,"La Doble Visera, Avellaneda",80000.0,1,0
+1965,Argentina,Independiente,Peñarol,Uruguay,"La Doble Visera, Avellaneda",45000.0,1,0
+1965,Argentina,Independiente,Peñarol,Uruguay,"Estadio Centenario, Montevideo",45000.0,1,3
+1965,Argentina,Independiente,Peñarol,Uruguay,"Estadio Nacional, Santiago",40000.0,4,1
+1966,Uruguay,Peñarol,River Plate,Argentina,"Estadio Centenario, Montevideo",46041.0,2,0
+1966,Uruguay,Peñarol,River Plate,Argentina,"Estadio Monumental, Buenos Aires",100000.0,2,3
+1966,Uruguay,Peñarol,River Plate,Argentina,"Estadio Nacional, Santiago",40240.0,4,2
+1967,Argentina,Racing,Nacional,Uruguay,"Estadio Juan Domingo Perón, Avellaneda",55000.0,0,0
+1967,Argentina,Racing,Nacional,Uruguay,"Estadio Centenario, Montevideo",60000.0,0,0
+1967,Argentina,Racing,Nacional,Uruguay,"Estadio Nacional, Santiago",,2,1
+1968,Argentina,Estudiantes,Palmeiras,Brazil,"Estadio Jorge Luis Hirschi, La Plata",35000.0,2,1
+1968,Argentina,Estudiantes,Palmeiras,Brazil,"Estádio do Pacaembu, São Paulo",40000.0,1,3
+1968,Argentina,Estudiantes,Palmeiras,Brazil,"Estadio Centenario, Montevideo",55000.0,2,0
+1969,Argentina,Estudiantes,Nacional,Uruguay,"Estadio Centenario, Montevideo",65000.0,1,0
+1969,Argentina,Estudiantes,Nacional,Uruguay,"Estadio Jorge Luis Hirschi, La Plata",55000.0,2,0
+1970,Argentina,Estudiantes,Peñarol,Uruguay,"Estadio Jorge Luis Hirschi, La Plata",40000.0,1,0
+1970,Argentina,Estudiantes,Peñarol,Uruguay,"Estadio Centenario, Montevideo",60000.0,0,0
+1971,Uruguay,Nacional,Estudiantes,Argentina,"Estadio Jorge Luis Hirschi, La Plata",30000.0,0,1
+1971,Uruguay,Nacional,Estudiantes,Argentina,"Estadio Centenario, Montevideo",70000.0,1,0
+1971,Uruguay,Nacional,Estudiantes,Argentina,"Estadio Nacional, Lima",,2,0
+1972,Argentina,Independiente,Universitario,Peru,"Estadio Nacional, Lima",45000.0,0,0
+1972,Argentina,Independiente,Universitario,Peru,"La Doble Visera, Avellaneda",55000.0,2,1
+1973,Argentina,Independiente,Colo-Colo,Chile,"La Doble Visera, Avellaneda",40000.0,1,1
+1973,Argentina,Independiente,Colo-Colo,Chile,"Estadio Nacional, Santiago",80000.0,0,0
+1973,Argentina,Independiente,Colo-Colo,Chile,"Estadio Centenario, Montevideo",,2,1
+1974,Argentina,Independiente,São Paulo,Brazil,"Estádio do Pacaembu, São Paulo",50000.0,1,2
+1974,Argentina,Independiente,São Paulo,Brazil,"La Doble Visera, Avellaneda",55000.0,2,0
+1974,Argentina,Independiente,São Paulo,Brazil,"Estadio Nacional, Santiago",60000.0,1,0
+1975,Argentina,Independiente,Unión Española,Chile,"Estadio Nacional, Santiago",43200.0,0,1
+1975,Argentina,Independiente,Unión Española,Chile,"La Doble Visera, Avellaneda",60000.0,3,1
+1975,Argentina,Independiente,Unión Española,Chile,"Estadio Defensores del Chaco, Asunción",,2,0
+1976,Brazil,Cruzeiro,River Plate,Argentina,"Mineirão, Belo Horizonte",58720.0,4,1
+1976,Brazil,Cruzeiro,River Plate,Argentina,"Estadio Monumental, Buenos Aires",90000.0,1,2
+1976,Brazil,Cruzeiro,River Plate,Argentina,"Estadio Nacional, Santiago",40000.0,3,2
+1977,Argentina,Boca Juniors,Cruzeiro,Brazil,"Estadio Boca Juniors, Buenos Aires",60000.0,1,0
+1977,Argentina,Boca Juniors,Cruzeiro,Brazil,"Mineirão, Belo Horizonte",80000.0,0,1
+1977,Argentina,Boca Juniors,Cruzeiro,Brazil,"Estadio Centenario, Montevideo",60000.0,0,0
+1978,Argentina,Boca Juniors,Deportivo Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",50000.0,0,0
+1978,Argentina,Boca Juniors,Deportivo Cali,Colombia,"Estadio Boca Juniors, Buenos Aires",80000.0,4,0
+1979,Paraguay,Olimpia,Boca Juniors,Argentina,"Estadio Defensores del Chaco, Asunción",50000.0,2,0
+1979,Paraguay,Olimpia,Boca Juniors,Argentina,"Estadio Boca Juniors, Buenos Aires",65000.0,0,0
+1980,Uruguay,Nacional,Internacional,Brazil,"Estádio Beira-Rio, Porto Alegre",70000.0,0,0
+1980,Uruguay,Nacional,Internacional,Brazil,"Estadio Centenario, Montevideo",65000.0,1,0
+1981,Brazil,Flamengo,Cobreloa,Chile,"Maracanã, Rio de Janeiro",93985.0,2,1
+1981,Brazil,Flamengo,Cobreloa,Chile,"Estadio Nacional, Santiago",61721.0,0,1
+1981,Brazil,Flamengo,Cobreloa,Chile,"Estadio Centenario, Montevideo",30200.0,2,0
+1982,Uruguay,Peñarol,Cobreloa,Chile,"Estadio Centenario, Montevideo",55248.0,0,0
+1982,Uruguay,Peñarol,Cobreloa,Chile,"Estadio Nacional, Santiago",70400.0,1,0
+1983,Brazil,Grêmio,Peñarol,Uruguay,"Estadio Centenario, Montevideo",70000.0,1,1
+1983,Brazil,Grêmio,Peñarol,Uruguay,"Estádio Olímpico Monumental, Porto Alegre",80000.0,2,1
+1984,Argentina,Independiente,Grêmio,Brazil,"Estádio Olímpico Monumental, Porto Alegre",,1,0
+1984,Argentina,Independiente,Grêmio,Brazil,"La Doble Visera, Avellaneda",,0,0
+1985,Argentina,Argentinos Juniors,América de Cali,Colombia,"Estadio Monumental, Buenos Aires",,1,0
+1985,Argentina,Argentinos Juniors,América de Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",35350.0,0,1
+1985,Argentina,Argentinos Juniors,América de Cali,Colombia,"Estadio Defensores del Chaco, Asunción",,1,1
+1986,Argentina,River Plate,América de Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",50000.0,2,1
+1986,Argentina,River Plate,América de Cali,Colombia,"Estadio Antonio V. Liberti, Buenos Aires",74300.0,1,0
+1987,Uruguay,Peñarol,América de Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",65000.0,0,2
+1987,Uruguay,Peñarol,América de Cali,Colombia,"Estadio Centenario, Montevideo",60000.0,2,1
+1987,Uruguay,Peñarol,América de Cali,Colombia,"Estadio Nacional, Santiago",25000.0,1,0
+1988,Uruguay,Nacional,Newell's Old Boys,Argentina,"El Coloso del Parque, Rosario",45000.0,0,1
+1988,Uruguay,Nacional,Newell's Old Boys,Argentina,"Estadio Centenario, Montevideo",75000.0,3,0
+1989,Colombia,Atlético Nacional,Olimpia,Paraguay,"Estadio Defensores del Chaco, Asunción",,0,2
+1989,Colombia,Atlético Nacional,Olimpia,Paraguay,"Estadio El Campín, Bogotá",,2,0
+1990,Paraguay,Olimpia,Barcelona,Ecuador,"Estadio Defensores del Chaco, Asunción",,2,0
+1990,Paraguay,Olimpia,Barcelona,Ecuador,"Estadio Monumental de Barcelona, Guayaquil",,1,1
+1991,Chile,Colo-Colo,Olimpia,Paraguay,"Estadio Defensores del Chaco, Asunción",48000.0,0,0
+1991,Chile,Colo-Colo,Olimpia,Paraguay,"Estadio Monumental David Arellano, Santiago",66517.0,3,0
+1992,Brazil,São Paulo,Newell's Old Boys,Argentina,"El Coloso del Parque, Rosario",35000.0,0,1
+1992,Brazil,São Paulo,Newell's Old Boys,Argentina,"Estádio do Morumbi, São Paulo",71986.0,1,0
+1993,Brazil,São Paulo,Universidad Católica,Chile,"Estádio do Morumbi, São Paulo",99000.0,5,1
+1993,Brazil,São Paulo,Universidad Católica,Chile,"Estadio Nacional, Santiago",50000.0,0,2
+1994,Argentina,Vélez Sársfield,São Paulo,Brazil,"Estadio José Amalfitani, Buenos Aires",,1,0
+1994,Argentina,Vélez Sársfield,São Paulo,Brazil,"Estádio do Morumbi, São Paulo",90000.0,0,1
+1995,Brazil,Grêmio,Atlético Nacional,Colombia,"Estádio Olímpico Monumental, Porto Alegre",,3,1
+1995,Brazil,Grêmio,Atlético Nacional,Colombia,"Estadio Atanasio Girardot, Medellín",,1,1
+1996,Argentina,River Plate,América de Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",,0,1
+1996,Argentina,River Plate,América de Cali,Colombia,"Estadio Antonio V. Liberti, Buenos Aires",,2,0
+1997,Brazil,Cruzeiro,Sporting Cristal,Peru,"Estadio Nacional, Lima",45000.0,0,0
+1997,Brazil,Cruzeiro,Sporting Cristal,Peru,"Mineirão, Belo Horizonte",95472.0,1,0
+1998,Brazil,Vasco da Gama,Barcelona,Ecuador,"Estádio São Januário, Rio de Janeiro",35000.0,2,0
+1998,Brazil,Vasco da Gama,Barcelona,Ecuador,"Estadio Monumental Isidro Romero Carbo, Guayaquil",72000.0,2,1
+1999,Brazil,Palmeiras,Deportivo Cali,Colombia,"Estadio Olímpico Pascual Guerrero, Cali",46000.0,0,1
+1999,Brazil,Palmeiras,Deportivo Cali,Colombia,"Estádio Palestra Itália, São Paulo",32000.0,2,1
+2000,Argentina,Boca Juniors,Palmeiras,Brazil,"Estadio Camilo Cichero, Buenos Aires",50580.0,2,2
+2000,Argentina,Boca Juniors,Palmeiras,Brazil,"Estádio do Morumbi, São Paulo",75000.0,0,0
+2001,Argentina,Boca Juniors,Cruz Azul,Mexico,"Estadio Azteca, Mexico City",115000.0,1,0
+2001,Argentina,Boca Juniors,Cruz Azul,Mexico,"Estadio Alberto J. Armando, Buenos Aires",60000.0,0,1
+2002,Paraguay,Olimpia,São Caetano,Brazil,"Estadio Defensores del Chaco, Asunción",40000.0,0,1
+2002,Paraguay,Olimpia,São Caetano,Brazil,"Estádio do Pacaembu, São Paulo",55000.0,2,1
+2003,Argentina,Boca Juniors,Santos,Brazil,"Estadio Alberto J. Armando, Buenos Aires",57000.0,2,0
+2003,Argentina,Boca Juniors,Santos,Brazil,"Estádio do Morumbi, São Paulo",75000.0,3,1
+2004,Colombia,Once Caldas,Boca Juniors,Argentina,"Estadio Alberto J. Armando, Buenos Aires",57000.0,0,0
+2004,Colombia,Once Caldas,Boca Juniors,Argentina,"Estadio Palogrande, Manizales",,1,1
+2005,Brazil,São Paulo,Atlético Paranaense,Brazil,"Estádio Beira-Rio, Porto Alegre",35000.0,1,1
+2005,Brazil,São Paulo,Atlético Paranaense,Brazil,"Estádio do Morumbi, São Paulo",80000.0,4,0
+2006,Brazil,Internacional,São Paulo,Brazil,"Estádio do Morumbi, São Paulo",71745.0,2,1
+2006,Brazil,Internacional,São Paulo,Brazil,"Estádio Beira-Rio, Porto Alegre",55000.0,2,2
+2007,Argentina,Boca Juniors,Grêmio,Brazil,"Estadio Alberto J. Armando, Buenos Aires",39993.0,3,0
+2007,Argentina,Boca Juniors,Grêmio,Brazil,"Estádio Olímpico Monumental, Porto Alegre",55000.0,2,0
+2008,Ecuador,LDU Quito,Fluminense,Brazil,"Estadio Casa Blanca, Quito",45000.0,4,2
+2008,Ecuador,LDU Quito,Fluminense,Brazil,"Maracanã, Rio de Janeiro",86027.0,1,3
+2009,Argentina,Estudiantes,Cruzeiro,Brazil,"Estadio Ciudad de La Plata, La Plata",52000.0,0,0
+2009,Argentina,Estudiantes,Cruzeiro,Brazil,"Mineirão, Belo Horizonte",70000.0,2,1
+2010,Brazil,Internacional,Guadalajara,Mexico,"Estadio Omnilife, Guadalajara",49500.0,2,1
+2010,Brazil,Internacional,Guadalajara,Mexico,"Estádio Beira-Rio, Porto Alegre",56000.0,3,2
+2011,Brazil,Santos,Peñarol,Uruguay,"Estadio Centenario, Montevideo",65000.0,0,0
+2011,Brazil,Santos,Peñarol,Uruguay,"Estádio do Pacaembu, São Paulo",40200.0,2,1
+2012,Brazil,Corinthians,Boca Juniors,Argentina,"Estadio Alberto J. Armando, Buenos Aires",51901.0,1,1
+2012,Brazil,Corinthians,Boca Juniors,Argentina,"Estádio do Pacaembu, São Paulo",37959.0,2,0
+2013,Brazil,Atlético Mineiro,Olimpia,Paraguay,"Estadio Defensores del Chaco, Asunción",35000.0,0,2
+2013,Brazil,Atlético Mineiro,Olimpia,Paraguay,"Mineirão, Belo Horizonte",56557.0,2,0
+2014,Argentina,San Lorenzo,Nacional,Paraguay,"Estadio Defensores del Chaco, Asunción",35000.0,1,1
+2014,Argentina,San Lorenzo,Nacional,Paraguay,"Estadio Pedro Bidegain, Buenos Aires",42000.0,1,0
+2015,Argentina,River Plate,UANL,Mexico,"Estadio Universitario, San Nicolás de los Garza",42000.0,0,0
+2015,Argentina,River Plate,UANL,Mexico,"Estadio Antonio V. Liberti, Buenos Aires",70000.0,3,0
+2016,Colombia,Atlético Nacional,Independiente del Valle,Ecuador,"Estadio Olímpico Atahualpa, Quito",38500.0,1,1
+2016,Colombia,Atlético Nacional,Independiente del Valle,Ecuador,"Estadio Atanasio Girardot, Medellín",45000.0,1,0
+2017,Brazil,Grêmio,Lanús,Argentina,"Arena do Grêmio, Porto Alegre",55188.0,1,0
+2017,Brazil,Grêmio,Lanús,Argentina,"Estadio Ciudad de Lanús, Lanús",45000.0,2,1
+2018,Argentina,River Plate,Boca Juniors,Argentina,"Estadio Alberto J. Armando, Buenos Aires",,2,2
+2018,Argentina,River Plate,Boca Juniors,Argentina,"Estadio Santiago Bernabéu, Madrid",,3,1
+2019,Brazil,Flamengo,River Plate,Argentina,"Estadio Monumental, Lima",,2,1

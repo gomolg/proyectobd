@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ProyectoBD2</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Agregamos la referencia a Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="./principal.css">
+</head>
+
+<body>
+
+    <!-- Creamos el navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+           <img src="/src/static/icono.png" width="80" height="80">
+        </a>
+
+        <!-- Agregamos los links del navbar -->
+        <ul class="navbar-nav">
+            
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li>
+                <a class="nav-link" href="/catalogo"> Catalogo</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Agregamos el título -->
+    <div class="texto">
+        <div class="container mt-3">
+            <h1 class="text-center ">FINALES DE LA COPA LIBERTADORES</h1>
+        </div>
+
+        <!-- Agregamos el formulario para consultar el año de la final -->
+        <div class="container mt-3">
+            <form>
+                <div class="form-group">
+                    <label for="year">Consulta Aquí, Digitando El Año De La Final:</label>
+                    <input type="text" class="form-control" id="year">
+                </div>
+                <button type="submit" class="btn btn-primary">Buscar</button>
+            </form>
+        </div>
+
+        <!-- Agregamos el text area -->
+        <div class="container mt-3">
+            <label for="result">Resultado:</label>
+            <textarea class="form-control" id="result" rows="5"></textarea>
+        </div>
+    </div>
+    <!-- Agregamos la referencia a Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>
